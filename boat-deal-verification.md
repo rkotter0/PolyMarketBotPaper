@@ -8,7 +8,7 @@
 
 | Yr | Ask | Engine/Hours | Location | Source |
 |---|---|---|---|---|
-| 2020 | $149,900 | ZZ6 450hp, 124 hrs | Mooresville, NC | [onlyinboards.com/…127412](https://onlyinboards.com/listings/2020-nautique-g23-for-sale-mooresville-north-carolina-127412) |
+| 2020 | $149,900 | ZZ6 450hp, 123 hrs | Mooresville, NC | [onlyinboards.com/…127412](https://onlyinboards.com/listings/2020-nautique-g23-for-sale-mooresville-north-carolina-127412) |
 | 2020 | $149,995 (sale pending) | ZZ6 450hp, 61 hrs | Irvine, CA | [yachtworld.com/…9843313](https://www.yachtworld.com/yacht/2020-nautique-super-air-g23-9843313/) |
 | 2020 | $149,995 | dealer retail | Montgomery, TX | [boatzon.com/…1741273385710](https://boatzon.com/boat-detail/used-2020-nautique-super-air-nautique-g23-14981-hwy-105-west-montgomery-tx-77356-1741273385710) |
 | 2020 | $124,967 | — | Jacksons Gap, AL | [boattrader.com G23 index](https://www.boattrader.com/boats/make-nautique/model-super-air-nautique-g23/) |
@@ -19,7 +19,7 @@
 | 2019 | $134,900 | 877 hrs | Lindon, UT | [boatzon.com/…1712736355224](https://boatzon.com/boat-detail/used-2019-nautique-super-air-nautique-g23-lindon-ut-84042-usa-1712736355224) |
 | 2019 | $119,500 | — | Carrollton, TX | [boatzon.com/…1724983423824](https://boatzon.com/boat-detail/used-2019-nautique-super-air-nautique-g23-3231-commander-dr-1724983423824) |
 
-Forum ground truth: a 2020 G23 owner reported an actual **$112K dealer trade offer** (book expectation ~$100K) — [PlanetNautique thread](https://www.planetnautique.com/vb5/forum/nautique-topics/general-nautique-discussion/597305-trade-on-2020-g23); a switch-cost thread pegs dealers **$15–25K under private party** ([thread](https://www.planetnautique.com/vb5/forum/nautique-topics/general-nautique-discussion/596685-2018-to-2020-g23-expected-cost-to-switch)). Used boats transact ~5–12% below ask; days-on-market are up ~37% YoY in a buyer's market.
+Forum context: a PlanetNautique ["Trade on 2020 G23" thread](https://www.planetnautique.com/vb5/forum/nautique-topics/general-nautique-discussion/597305-trade-on-2020-g23) pegged realistic trade ACV near **~$100K** against a hoped-for ~$115K (trading toward a new G23); a switch-cost thread pegs dealers **$15–25K under private party** ([thread](https://www.planetnautique.com/vb5/forum/nautique-topics/general-nautique-discussion/596685-2018-to-2020-g23-expected-cost-to-switch)). Used boats transact ~5–12% below ask; average days-on-market is up ~37 days YoY (Denison 2025: combined avg 209 days; used avg 139, +16) in a buyer's market.
 
 **Verdict on your boat** (2020, mid-tier engine, manual tower, no thruster, excellent):
 - **Private sale: $125–138K realistic, ~$130K central.** ⚠ Your $135–140K is the *optimistic top* of the range (achievable only under ~150 hrs and patient marketing); the prior analysis's $115–130K was slightly conservative but closer to what actually clears in this market.
@@ -70,9 +70,9 @@ Path A: buy now $329.1K, sell 2020 private @$130K → net $218,846; opportunity 
 
 | Scenario | 2029 MSRP | Negotiated | Net outlay (×1.06 − $100K) | vs Path A ($253,342) |
 |---|---|---|---|---|
-| 5%/yr, 20% off | $473,468 | $378,774 | $301,500 | **A wins by $48K** |
-| 6%/yr, 15% off (central) | $487,262 | $414,173 | $339,024 | **A wins by $86K** |
-| 7%/yr, 10% off | $501,080 | $450,972 | $378,030 | **A wins by $125K** |
+| 5%/yr, 20% off | $473,469 | $378,775 | $301,501 | **A wins by $48K** |
+| 6%/yr, 15% off (central) | $487,126 | $414,057 | $338,900 | **A wins by $86K** |
+| 7%/yr, 10% off | $501,043 | $450,939 | $377,995 | **A wins by $125K** |
 
 Path A's cash cost is lower in **every** tested scenario. The caveats that narrow (not flip) it: (1) at 2029, Path B ends with a *brand-new* boat vs Path A's 3-year-old (~$195–210K value) — if you value ending newer, B isn't strictly dominated; (2) raising opportunity cost to 10%/yr lifts Path A to ~$291K — still below B's best case; (3) B improves if the 2020 holds $115K+ to 2029, which the 2016–17 comps argue against. **What actually flips the answer: only a combination of ≥20% discounts persisting into 2029, ≤5% MSRP growth, ~10% investment returns, and strong 2020 value retention — and even then it's roughly a tie.** And Path B means 3 more years living with the power problem.
 
@@ -84,4 +84,4 @@ $329,100 is a market-consistent, well-negotiated price for a genuinely ~$409K bu
 
 **Where I disagree with your prior work:** (1) Your 2020 is more likely a **$125–135K** private-sale boat than $135–140K — plan proceeds around $130K and treat anything more as upside; the prior $115–130K estimate was nearer the truth than your figure. (2) The "25% effective discount" framing is invalid — you're getting 19.5%, which is *good but ordinary* in this market. (3) The bow-thruster and surf-tab "extras" claims were dealer puffery (one optional-and-stern-mounted, one standard equipment). **Where I agree:** GO at $329,100 *conditional on the power problem meaningfully limiting current use* — the switch costs ~$40–45K/yr in real economic terms, and that's justified by utility, not by the deal being a bargain. **Before signing:** get freight/prep included in writing, confirm the Integrated Steering Assist and trailer are line items on the build sheet, and price a Paragon ($365–389K asks) for $30–50K more given resale positioning.
 
-*Sources are asking-price data from search-indexed listing pages (direct fetches of some sites were blocked); sold data is thin — the $158K 2021 sale and $112K trade offer are the firmest anchors.*
+*Sources are asking-price data from search-indexed listing pages (direct fetches of some sites were blocked); sold data is thin — the $158K 2021 sale (confirmed) is the firmest anchor. Trade-in estimates rest on the standard 10–20% dealer haircut off private-party value plus forum ACV expectations (~$100K), not on a confirmed offer. All listing prices and market statistics in this report were independently re-verified in a second fact-check pass; figures that failed verification were corrected or removed.*
